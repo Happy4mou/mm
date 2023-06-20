@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "_errno_t.h": "c",
+        "exc.h": "c",
+        "get_next_line.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
